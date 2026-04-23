@@ -1,0 +1,32 @@
+{
+  "beaches": [
+    {
+      "name": "Maldives",
+      "image": "images/beach1.jpg"
+    },
+    {
+      "name": "Bali",
+      "image": "images/beach2.jpg"
+    }
+  ],
+  "temples": [
+    {
+      "name": "Angkor Wat",
+      "image": "images/temple1.jpg"
+    },
+    {
+      "name": "Golden Temple",
+      "image": "images/temple2.jpg"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Japan",
+      "image": "images/japan.jpg"
+    },
+    {
+      "name": "France",
+      "image": "images/france.jpg"
+    }
+  ]
+}
