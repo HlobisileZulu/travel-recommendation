@@ -1,7 +1,7 @@
 body {
   font-family: Arial;
   text-align: center;
-  background-image: url('destination 1.jpeg');
+  background-image: url('background ride-at-sunset.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -17,7 +17,15 @@ nav a {
   text-decoration: none;
 }
 
-img {
+.grid img {
   width: 200px;
+  height:100px;
   margin: 10px;
+  object-fit: cover;
+}
+
+.grid {
+  display: grid;
+  gap: 10px;
+
 }
