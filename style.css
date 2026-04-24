@@ -22,10 +22,11 @@ nav a {
   height:100px;
   margin: 10px;
   object-fit: cover;
+  display: grid;
+  gap: 10px;
 }
 
 .grid {
-  display: grid;
-  gap: 10px;
+  
 
 }
