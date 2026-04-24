@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background-image: url('destination 1.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+nav {
+  background: #333;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  margin: 10px;
+  text-decoration: none;
+}
+
+img {
+  width: 200px;
+  margin: 10px;
+}
